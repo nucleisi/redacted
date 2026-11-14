@@ -42,9 +42,9 @@ the regex it uses for this is written below:
 
 ## stuff to know
 
-- **role order matters!** discord won't let a bot rename anyone whose highest role is above the bot's. in server settings → roles, drag the bot's role above your members' roles if you want it to be able to rename them.
-- **the server owner can't be renamed** by any bot. it only works on normal members.
-- **nicknames max out at 32 characters**, so longer ones get trimmed before they're applied.
+- **role order matters!** discord won't let a bot rename anyone whose highest role is above the bot's. in server settings → roles, drag the bot's role above your members' roles if you want it to be able to rename them
+- **the server owner can't be renamed** by any bot; it only works on normal members
+- **nicknames max out at 32 characters**, so longer ones get trimmed before they're applied
 
 ---
 
